@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-mnemonic-notebook", "title": "Mnemonic Notebook", "exam": "GRE", "area": "GRE Verbal", "desc": "Write your own memory hooks for hard words, review them, and see which hooks work for you.", "content": ["gre_words.json"], "n": 11};
